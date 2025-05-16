@@ -1,4 +1,4 @@
-# 🌐 Microsoft Azure explicado do jeitinho certo, para vocêque está começamdo no meio Cloud. 😎
+# 🌐 Microsoft Azure explicado do jeitinho certo, para vocêque está começando no meio Cloud. 😎
 
 E aí! Seja bem-vindo ao meu repositório sobre o **Microsoft Azure** — a plataforma de nuvem da Microsoft que basicamente faz *de tudo um pouco* no mundo da tecnologia. Aqui vou te mostrar como esse serviço funciona, o que ele tem de bom e como você pode usar, tudo dividido em 4 partes simples. Bora nessa?
 
