@@ -1,0 +1,1 @@
+# MA-loca-category-service
